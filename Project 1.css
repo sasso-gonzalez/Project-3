@@ -1,0 +1,64 @@
+body
+{
+    margin: auto;
+    text-align: center;
+    background-image: url(https://i.pinimg.com/736x/3d/a7/f5/3da7f58a6af048dfedc4bcdad29ca0bd.jpg);
+}
+
+h1
+{
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: xxx-large; 
+    text-align: center;
+    background-color: burlywood;
+    border:darkslategrey; 
+    border-width:8px; 
+    border-style:solid;
+    padding-bottom: 10px;
+}
+p
+{
+    font-family: cursive; 
+    color: brown;
+}
+
+h4
+{
+    text-decoration: underline; 
+    font-size: x-large;
+    padding-top: 1px;
+}
+
+#submit
+{
+    margin-top: 10px;
+   background-color: burlywood;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 10pt;
+   padding: 10px;
+   border-width: 3px
+}
+input
+{
+    width: 150px;
+    height: 30px;
+    border-width:5px ;
+}
+#list
+{
+    background-color: bisque;
+    height: auto;
+    width: 200px;
+    margin: auto;
+    border-style: ridge;
+    border-width: 7px;
+}
+#select
+{
+    background-color: bisque;
+    height: auto;
+    width: 200px;
+    margin: auto;
+    border-style: ridge;
+    border-width: 7px;
+}
